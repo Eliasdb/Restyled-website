@@ -1,0 +1,138 @@
+.banner{
+  color: white;
+  background-color: #71BF44;
+  text-align: left;
+  position: absolute;
+  width: 72%;
+  margin: 0 auto;
+  margin-left: 210px;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  margin-top: -25px;
+  text-shadow : 0 0 0 white;
+}
+.name{
+  color: #57A835;
+}
+.row p{
+  margin-top: -5px;
+}
+.btn-margin-left{
+  margin-left: 30px;
+}
+
+.btn-margin-right{
+  margin-right: 30px;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.col1{
+  width: 307px;
+  height: 205px;
+  background-image: url(1.jpg);
+  margin-top: 90px;
+  margin-left: 40px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  border-radius: 50%;
+  text-align: justify;
+}
+
+.col2{
+  width: 307px;
+  height: 205px;
+  background-image: url(2.jpg);
+  margin-top: 90px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: 50px;
+}
+
+.col3{
+  width: 307px;
+  height: 205px;
+  background-image: url(3.jpg);
+  margin-top: 90px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: 50px;
+}
+
+.col4{
+  width: 307px;
+  height: 205px;
+  background-image: url(4.jpg);
+  margin-left: 40px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-top: 50px;
+}
+
+.col5{
+  width: 307px;
+  height: 205px;
+  background-image: url(5.jpg);
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.col6{
+  width: 307px;
+  height: 205px;
+  background-image: url(6.jpg);
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+.col7{
+  width: 307px;
+  height: 205px;
+  background-image: url(7.jpg);
+  margin-left: 40px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-top: 50px;
+}
+
+.col8{
+  width: 307px;
+  height: 205px;
+  background-image: url(8.jpg);
+  text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+@media screen and (min-width: 400px) and (max-width: 768px){
+ .row, .banner {
+    width: 100%;
+  }
+}
+
+.col9{
+  width: 307px;
+  height: 205px;
+  background-image: url(9.jpg);
+  margin-left: 50px;
+  margin-top: 50px;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+a{
+color:white;
+}
+
+a:hover{
+color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+.navbar {
+  z-index: 1;
+}
