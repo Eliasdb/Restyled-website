@@ -85,6 +85,13 @@
 
 }
 
+p > a{
+color: #71BF44;
+}
+p > a:hover{
+color: #71BF44;
+}
+
 .col7{
   width: 307px;
   height: 205px;

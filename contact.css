@@ -71,6 +71,20 @@ margin-left: 210px;
   margin-top: 20px;
   margin-left: 210px;
 }
+p > a:link {
+  text-decoration: none;
+}
+
+p > a:visited {
+  text-decoration: none;
+}
+
+p > a{
+color: #71BF44;
+}
+p > a:hover{
+color: #71BF44;
+}
 
 .button span {
   cursor: pointer;
